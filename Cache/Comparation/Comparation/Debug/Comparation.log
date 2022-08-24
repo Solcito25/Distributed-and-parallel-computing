@@ -1,0 +1,13 @@
+﻿  Comparation.cpp
+D:\2022-2\Paralela\Distributed-and-parallel-computing\Comparation\Comparation\Comparation.cpp(26,23): warning C4018: '<': no coinciden signed/unsigned
+D:\2022-2\Paralela\Distributed-and-parallel-computing\Comparation\Comparation\Comparation.cpp(32,23): warning C4018: '<': no coinciden signed/unsigned
+D:\2022-2\Paralela\Distributed-and-parallel-computing\Comparation\Comparation\Comparation.cpp(33,27): warning C4018: '<': no coinciden signed/unsigned
+D:\2022-2\Paralela\Distributed-and-parallel-computing\Comparation\Comparation\Comparation.cpp(45,23): warning C4018: '<': no coinciden signed/unsigned
+D:\2022-2\Paralela\Distributed-and-parallel-computing\Comparation\Comparation\Comparation.cpp(55,23): warning C4018: '<': no coinciden signed/unsigned
+D:\2022-2\Paralela\Distributed-and-parallel-computing\Comparation\Comparation\Comparation.cpp(56,27): warning C4018: '<': no coinciden signed/unsigned
+D:\2022-2\Paralela\Distributed-and-parallel-computing\Comparation\Comparation\Comparation.cpp(69,23): warning C4018: '<': no coinciden signed/unsigned
+D:\2022-2\Paralela\Distributed-and-parallel-computing\Comparation\Comparation\Comparation.cpp(70,27): warning C4018: '<': no coinciden signed/unsigned
+D:\2022-2\Paralela\Distributed-and-parallel-computing\Comparation\Comparation\Comparation.cpp(84,23): warning C4018: '<': no coinciden signed/unsigned
+D:\2022-2\Paralela\Distributed-and-parallel-computing\Comparation\Comparation\Comparation.cpp(85,27): warning C4018: '<': no coinciden signed/unsigned
+D:\2022-2\Paralela\Distributed-and-parallel-computing\Comparation\Comparation\Comparation.cpp(115,23): warning C4018: '<': no coinciden signed/unsigned
+  Comparation.vcxproj -> D:\2022-2\Paralela\Distributed-and-parallel-computing\Comparation\Debug\Comparation.exe
